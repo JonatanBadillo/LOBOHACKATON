@@ -1,1 +1,3 @@
 # LOBOHACKATON
+
+18,19,20 de Abril
